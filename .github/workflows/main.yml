@@ -8,4 +8,4 @@ jobs:
       - name: Test for public javascript library vulnerabilities 
         uses: lirantal/is-website-vulnerable@main
         with:
-          scan-url: https://www.elastic.co
+          scan-url: https://www.uta.vc
